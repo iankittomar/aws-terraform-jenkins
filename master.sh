@@ -4,6 +4,8 @@ sudo apt-get update
 
 sudo apt-get install docker.io -y 
 
+sudo apt install openjdk-8-jdk -y
+
 sudo apt-get install maven -y
 
 sudo chmod 777 /var/run/docker.sock
